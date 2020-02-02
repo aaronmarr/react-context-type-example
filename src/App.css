@@ -1,0 +1,14 @@
+.counter {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.counter__count {
+  font-size: 48px;
+}
+
+.counter__inc,
+.counter__dec {
+  font-size: 36px;
+  margin: 1rem;
+}
